@@ -1,6 +1,8 @@
 # evaluate-classifiers
 evaluate-classifiers is a script that trains and evaluates classifiers.
 
+[![Build Status](https://travis-ci.org/zorbasd/evaluate-classifiers.svg?branch=master)](https://travis-ci.org/zorbasd/evaluate-classifiers)
+
 evaluate-classifiers was initially developed for the purpose of conducting research in the area of privacy in online social networks. For more details you can read the following publications:
 
 * Abuelgasim, A., Kayem, A.: [An approach to personalized privacy policy recommendation on online social networks](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0005689701260137). In: Proceedings of the 2nd International Conference for Information Systems Security and Privacy (ICISSP), pp. 126–137. SCITEPRESS, February 2016.
